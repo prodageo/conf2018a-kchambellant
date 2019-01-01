@@ -26,9 +26,13 @@
    * Notions clefs
    * Ordinateur quantique
    * Mythe ou réalite ?
+ - Liens annexe:
+   * [IBM Q computer](https://www.research.ibm.com/ibm-q/)
+   * [Qubit](https://fr.wikipedia.org/wiki/Qubit)
 
 ## Résumé
 ...
 
 ## Architecture et facteur qualité
-...
+ * *Fiabilité* : Un processeur munie de Qubits sera capable d'effectuer les calculs demandés dans un temps donnés de façon plus efficiente qu'un processeur classique.
+ * *Sécurité* : L'informatique quantique, et notamment la notion de Qubit permettrait de faire progresser le domaine de la cryptographie. En effet, les transmissions quantiques seront confidentielles. Si quelqu'un essaie de copier le message transmis, la requête sera perturber due au [théorème de non-clonage](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_non_clonage)
