@@ -11,7 +11,10 @@
    - Robin Szylobryt: [LinkedIn](https://www.linkedin.com/in/robin-szylobryt-02b656160/?originalSubdomain=fr)
  - Audience : ~150 personnes
  - Auteur du billet : Killian CHAMBELLANT
- - Mots-clés
+ - Mots-clés : 
+   * Informatique quantique
+   * Qubit
+   * Microprocesseur
  - URL de l'illustration : ![Illustration conférence informatique quantique](cover.png)
 
 ## Support
